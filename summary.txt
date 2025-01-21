@@ -1,0 +1,3 @@
+Total Posts: 100
+Unique Users: 10
+Average Words per Post: 23.85
